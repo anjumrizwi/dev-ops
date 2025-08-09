@@ -1,4 +1,4 @@
-name: GitHub Actions Demo 
+name: GitHub Actions PR Demo 
 run-name: Testing out GitHub Actions Event Trigger  
 on: 
   push: 
